@@ -9,3 +9,4 @@ Create a simple calendar application that allows a user to save events for each 
 ![image](https://user-images.githubusercontent.com/111911809/204443172-9c44f9fe-7b2c-43c8-b60f-c4e45482d8bb.png)
 
 ## deployment link
+file:///C:/Users/kadai/bootcamp/Day%20scheduler/assets/index.html
